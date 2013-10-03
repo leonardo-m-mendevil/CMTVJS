@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<docProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pageTitle>ChatMeTV API, Alpha, 0.003</pageTitle>
+  <classPaths>B:\ChatMeTVAPI_Alpha_002\ChatMeTVAS3\src</classPaths>
+  <sourcesList />
+  <outputDirectory>B:\ChatMeTVAPI_Alpha_002\DocsAPI</outputDirectory>
+  <activeCompiler>1</activeCompiler>
+  <extraOptions />
+</docProject>
