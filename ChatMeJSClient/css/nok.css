@@ -1,0 +1,238 @@
+@charset "utf-8";
+/* CSS Document */
+
+#output.b {
+	font-style:oblique;
+	font-variant:small-caps;
+	font-weight:bolder;
+	font-size: 10px;
+	text-transform: capitalize;
+	text-decoration: underline;
+}
+
+
+#output {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #ffffff;
+	text-align: left;
+	margin: 3px;
+	padding: 1px;
+	clear: both;
+	float: none;
+	height: 340px;
+	width: 490px;
+	border: 1px solid #000000;
+	left: 20px;
+	top: 20px;
+	right: auto;
+	bottom: auto;
+	word-spacing: normal;
+	overflow: scroll;
+	visibility: visible;
+	z-index: auto;
+	cursor: crosshair;
+	display:list-item;
+	font-style:inherit;
+	font-weight:inherit;
+}
+
+input.chooseTopic {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #000;
+	background-color: #FFF;
+	position:absolute;
+	text-align: left;
+	margin: 1px;
+	padding: 1px;
+	height: 15px;
+	width: 267px;
+	border: 1px solid #C00;
+	left: 111px;
+	top: 22px;
+	right: auto;
+	bottom: auto;
+}
+input.chooseSource {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #000;
+	background-color: #FFF;
+	text-align: left;
+	margin: 1px;
+	padding: 1px;
+	height: 15px;
+	width: 267px;
+	border: 1px solid #C00;
+	position:absolute;
+	left: 111px;
+	top: 45px;
+	right: auto;
+	bottom: auto;
+}
+.send {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333333;
+	background-color:#ffffff;
+	text-align: left;
+	margin: 2px;
+	height: 80px;
+	width: 400px;
+	left: 520px;
+	top: 20px;
+	right: auto;
+	bottom: auto;
+	vertical-align: text-top;
+	padding-top: 1px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 1px;
+	white-space: normal;
+	overflow:hidden;
+	border:solid;
+	border-width:1px;
+}
+.clearLog {
+	position :absolute;
+	left: 423px;
+	top: 15px;
+	top: 71px;
+}
+.smessage {
+	position:absolute;
+	left:417px;
+	top: 427px;
+	width: 1px;
+	height: 1px;
+}
+.users {
+	background-color:#E5E5E5;
+	height: 343px;
+	width: 204px;
+	overflow: auto;
+	position: absolute;
+	border: 1px solid #666666;
+	left: 523px;
+	top: 59px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color:#600;
+	text-align: left;
+	vertical-align: top;
+	margin: 4px;
+	visibility: visible;
+}
+input.clearTheLog {
+	position:absolute;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-style:oblique;
+	line-height: normal;
+	font-weight:bolder;
+	color: #333333;
+	left: 658px;
+	top: 475px;
+}
+input.Start {
+	position:absolute;
+	font-family: Helvetica, sans-serif;
+	font-size: 13px;
+	font-style:oblique;
+	line-height: normal;
+	font-weight:bolder;
+	color:#000;
+	left: 417px;
+	top: 38px;
+}
+
+input.changesn {
+	background-color:#FFFFFF;
+	position: absolute;
+	border: 1px solid #666666;
+	left: 600px;
+	top: 412px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color:#600;
+	text-align: left;
+	margin: 1px;
+	visibility: visible;
+	width: 130px;
+	height: 26px;
+}
+input.invite {
+	background-color:#FFFFFF;
+	position: absolute;
+	border: 1px solid #666666;
+	left: 200px;
+	top: 512px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#666666;
+	text-align:center;
+	margin: 1px;
+	visibility: visible;
+	width: 130px;
+	height: 26px;
+}
+
+
+.copy1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style:normal;
+	line-height:normal;
+	font-weight:bolder;
+	color:#999999;
+	padding: 1px;
+	text-transform: capitalize;
+	font-variant: small-caps;
+}
+.copy2 {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-style:oblique;
+	line-height: normal;
+	font-weight:bolder;
+	color: #333333;
+}
+.sn {
+	position:absolute;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-style:oblique;
+	line-height: normal;
+	font-weight:bolder;
+	color: #333333;
+	left: 598px;
+	top: 447px;
+}
+input.input {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #000;
+	background-color: #FFF;
+	text-align: left;
+	margin: 1px;
+	padding: 1px;
+	height: 150px;
+	border: 1px solid #C00;
+	left: 20px;
+	top: 530px;
+	right: auto;
+	bottom: auto;
+}
+body {
+	background-color: #F2F2F2;
+	margin: 1px;
+	padding: 10px;
+}
